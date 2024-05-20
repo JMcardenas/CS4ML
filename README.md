@@ -2,7 +2,7 @@
 
 Christoffel Sampling for Machine Learning is a general framework for active learning in regression problems. It approximates a target function arising from general types of data, rather than pointwise samples. 
 
-This generalization covers many cases of practical interest, such as data acquired in transform domains (e.g., Fourier data), vector-valued data (e.g., gradient-augmented data), data acquired along continuous curves, and, multimodal data (i.e., combinations of different types of measurements). 
+This generalization covers many cases of practical interest, such as data acquired in transform domains (e.g., Fourier data), vector-valued data (e.g., gradient-augmented data), data acquired along continuous curves, and, multimodal data, i.e., combinations of different types of measurements. 
 
 This library shows the efficacy of our framework for gradient-augmented learning with polynomials, Magnetic Resonance Imaging (MRI) using generative models and adaptive sampling for solving PDEs using Physics-Informed Neural Networks (PINNs), see spotlight presentation at [spotlight](https://neurips.cc/virtual/2023/poster/71203). You can use the tools provided in this repository for your own data. 
  
