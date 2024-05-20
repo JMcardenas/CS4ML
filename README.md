@@ -14,7 +14,7 @@ published by NeurIPS 2023, available at https://openreview.net/pdf?id=aINqoP32cb
 
 If you have questions or comments about the code, please contact [juan.cardenascardenas@colorado.edu](mailto:juan.cardenascardenas@colorado.edu?subject=[GitHub]%20Source%20Han%20Sans), [ben_adcock@sfu.ca](mailto:ben_adcock@sfu.ca?subject=[GitHub]%20Source%20Han%20Sans), or [nick.dexter@fsu.edu](mailto:nick.dexter@fsu.edu?subject=[GitHub]%20Source%20Han%20Sans).
 
-Parts of this repository are based on the code for the paper "CAS4DL: Christoffel Adaptive Sampling for function approximation via Deep Learning" by Ben Adcock, Juan M. Cardenas and Nick Dexter,  which is available in the repository [https://github.com/JMcardenas/Adaptive-sampling-and-domain-learning](https://github.com/JMcardenas/CAS4DL). 
+Parts of this repository are based on the code for the paper "CAS4DL: Christoffel Adaptive Sampling for function approximation via Deep Learning" by Ben Adcock, Juan M. Cardenas and Nick Dexter,  which is available in the repository [https://github.com/JMcardenas/CAS4DL](https://github.com/JMcardenas/CAS4DL).
 
 # Code organization 
 Files are organized into four main directories:
