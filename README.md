@@ -19,7 +19,7 @@ Parts of this repository are based on the code for the paper "CAS4DL: Christoffe
 # Code organization 
 Files are organized into three main directories:
 
-## Gradient-Augmented-with-polynomials 
+### Gradient-Augmented-with-polynomials 
 Contains the main matlab files used to create the data/results/figures in each section related to example number 1 and appendix section B.  
 
 ### Generative-models  
