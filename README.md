@@ -50,4 +50,13 @@ booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
 year={2023},
 url={https://openreview.net/forum?id=aINqoP32cb}
 }
+
+@inproceedings{adcock2024unified,
+  title={A Unified Framework for Learning with Nonlinear Model Classes from Arbitrary Linear Samples},
+  author={Adcock, Ben and Cardenas, Juan M and Dexter, Nick},
+  booktitle={Forty-first International Conference on Machine Learning},
+  year={2024},
+  url={https://openreview.net/forum?id=wG2SgnH6Zv}
+}
+
 ```
